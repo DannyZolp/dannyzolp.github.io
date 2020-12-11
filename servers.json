@@ -1,0 +1,16 @@
+[
+  {
+    "name": "test",
+    "ip": "68.183.107.81",
+    "status": "online",
+    "ping": -1,
+    "key": 0
+  },
+  {
+    "name": "test1",
+    "ip": "google.com",
+    "status": "online",
+    "ping": -1,
+    "key": 1
+  }
+]
