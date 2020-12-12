@@ -1,16 +1,58 @@
 [
   {
-    "name": "test",
-    "ip": "68.183.107.81",
+    "name": "AWS Instance (C5)",
+    "ip": "52.207.197.143",
     "status": "online",
     "ping": -1,
     "key": 0
   },
   {
-    "name": "test1",
-    "ip": "google.com",
+    "name": "Azure Container Service",
+    "ip": "52.186.89.131",
     "status": "online",
     "ping": -1,
     "key": 1
+  },
+  {
+    "name": "DigitalOcean",
+    "ip": "159.65.221.234",
+    "status": "online",
+    "ping": -1,
+    "key": 2
+  },
+  {
+    "name": "Google Cloud (E2)",
+    "ip": "35.222.94.79",
+    "status": "online",
+    "ping": -1,
+    "key": 3
+  },
+  {
+    "name": "Kamatera",
+    "ip": "138.128.240.212",
+    "status": "online",
+    "ping": -1,
+    "key": 4
+  },
+  {
+    "name": "Linode",
+    "ip": "162.216.19.96",
+    "status": "online",
+    "ping": -1,
+    "key": 5
+  },
+  {
+    "name": "Vultr",
+    "ip": "149.28.120.22",
+    "status": "online",
+    "ping": -1,
+    "key": 6
+  },
+  {
+    "name": "AWS Lightsail",
+    "ip": "testservice.odqne0svqr448.us-east-2.cs.amazonlightsail.com",
+    "status": "online",
+    "ping": -1,
+    "key": 7
   }
 ]
